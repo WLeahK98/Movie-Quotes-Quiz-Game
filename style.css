@@ -19,9 +19,9 @@ body{
 .game{
 
     background: white;
-    width: 90%;
+    width: 70%;
     max-width: 600px;
-    margin: 100px auto 0;
+    margin: 65px auto 0;
     border-radius: 10px;
     padding: 30px;
 
@@ -32,7 +32,7 @@ body{
     color: rgb(74, 0, 114);
     font-weight: 600;
     border-bottom: 1px solid #333;
-    padding-bottom: 30px;
+    padding-top: 20px;
 
 }
 
@@ -44,4 +44,37 @@ body{
     font-size: 18px;
     color: rgb(94, 0, 99);
     font-weight: 600;
+}
+
+.btn{
+    background: white;
+    color: #0d004b;
+    font-weight: 500;
+    width: 100%;
+    border: 1px solid #4d0029;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: left;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s;
+
+}
+
+.btn:hover{
+    background: #840192 ;
+    color: white;
+}
+
+#next-btn{
+    background: #840192;
+    color: white;
+    font-weight: 500;
+    width: 150px;
+    border: 0;
+    padding: 10px;
+    margin: 20px auto 0;
+    border: 4px;
+    cursor: pointer;
+    display: block;
 }
