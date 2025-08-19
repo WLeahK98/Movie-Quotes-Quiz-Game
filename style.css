@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Powell Antique', sans-serif;
+    box-sizing: border-box;
+}
+
+
+body{
+    background:#73a9c2 ;
+    background-image: url("images/gaming\ tv.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 700px 500px;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.game{
+
+    background: white;
+    width: 90%;
+    max-width: 600px;
+    margin: 100px auto 0;
+    border-radius: 10px;
+    padding: 30px;
+
+}
+
+.game h1{
+    font-size: 25px;
+    color: rgb(74, 0, 114);
+    font-weight: 600;
+    border-bottom: 1px solid #333;
+    padding-bottom: 30px;
+
+}
+
+.quiz{
+    padding: 20px 0;
+}
+
+.quiz h2{
+    font-size: 18px;
+    color: rgb(94, 0, 99);
+    font-weight: 600;
+}
