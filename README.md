@@ -1,9 +1,12 @@
 # Match the movie/tv show quote to the correct movie/tv show quiz!
 ## A short quiz game where you match the given movie/tv show quote to the right movie or film. 
 
-This is a game which texts users movie/tv shows knowledge by presenting them with quotes form popular movies, tv shows and animes. Users then have the option of choosing from four options which they feel could match the given quote. As a movie and anime fan myself, I though this would be a great game idea and had a lot of fun adding quotes from my favorite movies and animes.
-<ins>There are two movies:</ins><br> 
-**Lord of the Rings** and **John Wick** and two tv shows (anime tv shows): **Naruto** and **Demon Slayer** to select from. 
+This is a game which texts users movie/tv shows knowledge by presenting them with quotes form popular movies, tv shows and animes. Users then have the option of choosing from four options which they feel could match the given quote. <br>As a movie and anime fan myself, I though this would be a great game idea and had a lot of fun adding quotes from my favorite movies and animes.
+<ins>There are four movies/animes to select from:</ins><br> 
+* **Lord of the Rings**
+* **John Wick** <br>
+* **Naruto**
+* **Demon Slayer** <br>
 At the end the score is dispayed as well as a play again button which can be clicked to play the quiz again.
 
 ### Rules:
