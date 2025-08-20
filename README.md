@@ -1,8 +1,9 @@
 # Match the movie/tv show quote to the correct movie/tv show quiz!
 ## A short quiz game where you match the given movie/tv show quote to the right movie or film. 
 
-This is a game which texts users movie/tv shows knowledge by presenting them with quotes form popular movies, tv shows and animes. Users then have the option of choosing from four options which tehy feel could match the quote. 
-<ins>There are two movies:</ins> **Lord of the Rings** and **John Wick** and two tv shows (anime tv shows): **Naruto** and **Demon Slayer** to select from. 
+This is a game which texts users movie/tv shows knowledge by presenting them with quotes form popular movies, tv shows and animes. Users then have the option of choosing from four options which they feel could match the given quote. As a movie and anime fan myself, I though this would be a great game idea and had a lot of fun adding quotes from my favorite movies and animes.
+<ins>There are two movies:</ins> 
+**Lord of the Rings** and **John Wick** and two tv shows (anime tv shows): **Naruto** and **Demon Slayer** to select from. 
 At the end the score is dispayed as well as a play again button which can be clicked to play the quiz again.
 
 ### Rules:
@@ -16,4 +17,4 @@ At the end the score is dispayed as well as a play again button which can be cli
 ### Issues:
 * Im not used to coding with Javascript so at points I was honestly confused with the code, I had to get help from different YouTube tutorials so I only could come up with four quotes prompts as I didnt want to get confused further.
 * I wanted to add an image or gif that would display a giff or image from the movie/anime when answere is selected to show the correct show/film as well as add more fun and interactiveness to the game but will have to re-visit that idea another time.
-* 
+* I also wanted to  add sound effects from the movie/shows when the correct answer was selected. Or sound effects when clicking the next button but I'm pretty sure I'm going to have to better my Javascript knowledge first.
